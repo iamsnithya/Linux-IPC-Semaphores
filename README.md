@@ -125,15 +125,14 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+![catfile3](5.png)
 
 
 $ ipcs
+1[catfile4](5.2.png)
 
 
-<img width="571" height="336" alt="image" src="https://github.com/user-attachments/assets/d87f5a70-2857-4f1d-9980-4ec7c1443205" />
 
-
-<img width="685" height="180" alt="image" src="https://github.com/user-attachments/assets/cb851800-681c-4c32-a3a1-9ae92486b36e" />
 
 # RESULT:
 The program is executed successfully.
